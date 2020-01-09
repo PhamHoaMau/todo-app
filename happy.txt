@@ -1,0 +1,4 @@
+public boolean isHappy(int number){
+	sout("hello work");
+	return true;
+}
