@@ -1,0 +1,4 @@
+private boolean isStrong(int number){
+	//todo strong;
+	return true;
+}
